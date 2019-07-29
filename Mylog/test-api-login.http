@@ -1,0 +1,11 @@
+POST http://parking.msuproject.net/webservice/login
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "email" :"m",
+  "password" : "1234"
+}
+
+###
+

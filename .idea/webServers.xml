@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="13765f59-117e-4c3b-9ac9-0337e6404569" name="msu_parking" url="http://27.254.172.42">
+        <fileTransfer host="27.254.172.42" port="2120" rootFolder="/webservice">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2120" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
