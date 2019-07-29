@@ -1,0 +1,16 @@
+POST http://parking.msuproject.net/webservice/register
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "name" :"por",
+  "lastname" :"ja",
+  "email" :"por@gmail.com",
+  "phone" :"0804795359",
+  "password" : 1234
+}
+
+<> 2562-07-29T050813.200.json
+
+###
+

@@ -16,6 +16,7 @@ require 'api/user.php';
 require 'api/login.php';
 require 'api/parking.php';
 require 'api/register.php';
+require 'api/distanc.php';
 
 // Run silm app
 $app->run();

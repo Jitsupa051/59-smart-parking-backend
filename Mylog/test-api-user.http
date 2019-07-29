@@ -1,0 +1,7 @@
+GET http://parking.msuproject.net/webservice/user/por
+Content-Type: application/json
+Cache-Control: no-cache
+
+
+###
+

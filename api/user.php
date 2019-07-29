@@ -8,7 +8,7 @@ $app->get('/user/{name}', function (Request $request, Response $response, array 
 
     $database = $GLOBALS['dbconn'];
 
-    $uname = $args['username'];
+    $uname = $args['name'];
     $result  = $database->select('user','*',[
         'name' => $uname
     ]);
