@@ -8,13 +8,14 @@ $app->post('/register', function (Request $request, Response $response) {
     $data = $request->getParsedBody();
     $database = $GLOBALS['dbconn'];
 
-    $result =$database->insert('user', [
+    $result = $database->insert('user', [
         'name' => $data['name'],
         'lastname' => $data['lastname'],
         'email' => $data['email'],
         'phone' => $data['phone'],
-        'password' => $data['password']
-
+        'password' => $data['password'],
+        'status' => "using",
+        'identity' => "user"
     ]);
 
     return $response->withJson($result->rowCount(),200);

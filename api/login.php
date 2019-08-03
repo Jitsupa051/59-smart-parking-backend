@@ -9,7 +9,6 @@ $app->post('/login', function (Request $request, Response $response) {
 
     $result =  $database->select('user','*',[
         'AND' => [
-
             'email' => $data['email'],
             'password' => $data['password']
         ]
