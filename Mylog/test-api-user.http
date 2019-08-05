@@ -1,7 +1,13 @@
-GET http://parking.msuproject.net/webservice/user/por
+GET http://parking.msuproject.net/webservice/user/2
 Content-Type: application/json
 Cache-Control: no-cache
 
+{
+
+
+}
+
+<> 2562-08-04T011413.404.html
 
 ###
 
