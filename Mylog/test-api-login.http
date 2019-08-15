@@ -3,7 +3,7 @@ Content-Type: application/json
 Cache-Control: no-cache
 
 {
-  "email" :"m",
+  "email" :"por@gmail.com",
   "password" : "1234"
 }
 

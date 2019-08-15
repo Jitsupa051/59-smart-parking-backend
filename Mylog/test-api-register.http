@@ -3,11 +3,11 @@ Content-Type: application/json
 Cache-Control: no-cache
 
 {
-  "name" :"por",
-  "lastname" :"ja",
-  "email" :"por@gmail.com",
+  "Name" :"pppporJaJA",
+  "lastName" :"jaja",
+  "email" :"pppp@gmail.com",
   "phone" :"0804795359",
-  "password" : 1234
+  "password" : 12342364
 }
 
 <> 2562-07-29T050813.200.json

@@ -1,0 +1,22 @@
+POST http://parking.msuproject.net/webservice/parkingspot
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingSpotName" :"จุดจอดที่ 1",
+  "status" :"ใช้งาน",
+  "activeOrInactive" :"ว่าง",
+  "distance" :"0804795359",
+  "parkingID" : "1235"
+}
+
+<> 2562-08-09T051947.200.json
+<> 2562-08-09T051845.404.html
+<> 2562-08-09T051725.200.html
+<> 2562-08-09T051439.200.html
+<> 2562-08-09T051409.200.html
+<> 2562-08-09T051247.200.html
+
+###
+
+
