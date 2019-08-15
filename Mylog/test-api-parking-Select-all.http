@@ -1,0 +1,15 @@
+GET http://parking.msuproject.net/webservice/parking
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+
+
+}
+
+<> 2562-08-16T022743.200.json
+<> 2562-08-16T022630.200.json
+<> 2562-08-16T021625.200.json
+
+###
+

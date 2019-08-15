@@ -7,7 +7,8 @@ Cache-Control: no-cache
   "lastName" :"jaja",
   "email" :"pppp@gmail.com",
   "phone" :"0804795359",
-  "password" : 12342364
+  "password" : "12342364",
+  "facebookID" : "facebook"
 }
 
 <> 2562-07-29T050813.200.json

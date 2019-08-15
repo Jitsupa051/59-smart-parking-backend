@@ -2,7 +2,7 @@
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Psr\Http\Message\ResponseInterface as Response;
 
-//Insert 
+//Insert
 $app->post('/parking', function (Request $request, Response $response) {
     $data = $request->getParsedBody();
     $database = $GLOBALS['dbconn'];
@@ -18,7 +18,7 @@ $app->post('/parking', function (Request $request, Response $response) {
     return $response->withJson($result->rowCount(),200);
     //return $response->withJson($result,200);
 });
-//Select
+//Select   Set to show as parkingID
 $app->get('/parking/{parkingID}', function (Request $request, Response $response, array $args) {
 
     $data = $request->getParsedBody();
@@ -33,6 +33,20 @@ $app->get('/parking/{parkingID}', function (Request $request, Response $response
     ],[
         'parkingID' => $uparkingID
     ]);
+    return $response->withJson($result,200);
+});
+//Select all
+$app->get('/parking', function (Request $request, Response $response, array $args) {
+
+    $data = $request->getParsedBody();
+    $database = $GLOBALS['dbconn'];
+
+    $result  = $database->select('parking','*',[
+        'AND' => [
+            'status' => "using"
+        ]
+    ]);
+
     return $response->withJson($result,200);
 });
 //UpDate

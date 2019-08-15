@@ -33,6 +33,7 @@ $app->post('/register', function (Request $request, Response $response) {
         'email' => $data['email'],
         'phone' => $data['phone'],
         'password' => $data['password'],
+        'facebookID' => $data['facebookID'],
         'status' => "using",
         'identity' => "user"
     ]);
