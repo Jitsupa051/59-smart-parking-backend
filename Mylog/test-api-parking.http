@@ -1,0 +1,22 @@
+POST http://parking.msuproject.net/webservice/parking
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingName" :"ลานจอดรถคณะวิทยาการสารสนเทศ",
+  "position" :"คณะวิทยาการสารสนเทศ มหาวิทยาลัยมหาสารคาม ตำบลขามเรียง อำเภอกันทรวิชัย จังหวัดมหาสารคาม 44150",
+  "parkingImage" :"D:ภาพรวม-ภาพนิ่ง1",
+  "parkingUUID" :123,
+  "nameEquipment" :"ESP32 LoRa"
+}
+
+<> 2562-08-09T064020.200.json
+<> 2562-08-09T061344.200.json
+<> 2562-08-09T055613.200.json
+<> 2562-08-09T055549.200.json
+<> 2562-08-09T055524.200.json
+
+
+
+###
+
