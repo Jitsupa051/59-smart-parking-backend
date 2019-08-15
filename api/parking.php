@@ -2,6 +2,7 @@
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Psr\Http\Message\ResponseInterface as Response;
 
+//Insert 
 $app->post('/parking', function (Request $request, Response $response) {
     $data = $request->getParsedBody();
     $database = $GLOBALS['dbconn'];
@@ -13,9 +14,9 @@ $app->post('/parking', function (Request $request, Response $response) {
         'parkingUUID' => $data['parkingUUID'],
         'nameEquipment' => $data['nameEquipment']
 
-
     ]);
-    return $response->withJson($result,200);
+    return $response->withJson($result->rowCount(),200);
+    //return $response->withJson($result,200);
 });
 //Select
 $app->get('/parking/{parkingID}', function (Request $request, Response $response, array $args) {
@@ -34,4 +35,4 @@ $app->get('/parking/{parkingID}', function (Request $request, Response $response
     ]);
     return $response->withJson($result,200);
 });
-//Delete
+//UpDate

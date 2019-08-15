@@ -3,20 +3,12 @@ Content-Type: application/json
 Cache-Control: no-cache
 
 {
-  "parkingSpotName" :"จุดจอดที่ 1",
+  "parkingSpotName" :"จุดจอดที่ 2",
   "status" :"ใช้งาน",
   "activeOrInactive" :"ว่าง",
-  "distance" :"0804795359",
-  "parkingID" : "1235"
+  "distance" :"33",
+  "parkingID" : 2
 }
 
-<> 2562-08-09T051947.200.json
-<> 2562-08-09T051845.404.html
-<> 2562-08-09T051725.200.html
-<> 2562-08-09T051439.200.html
-<> 2562-08-09T051409.200.html
-<> 2562-08-09T051247.200.html
-
 ###
-
 
