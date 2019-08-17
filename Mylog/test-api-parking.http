@@ -5,8 +5,8 @@ Cache-Control: no-cache
 {
   "parkingName" :"ลานจอดรถคณะวิทยาการสารสนเทศ",
   "position" :"คณะวิทยาการสารสนเทศ มหาวิทยาลัยมหาสารคาม ตำบลขามเรียง อำเภอกันทรวิชัย จังหวัดมหาสารคาม 44150",
-  "parkingImage" :"D:ภาพรวม-ภาพนิ่ง1",
-  "parkingUUID" :123,
+  "parkingImage" :"D:ภาพรวม-ภาพนิ่ง1233",
+  "parkingUUID" :12311,
   "nameEquipment" :"ESP32 LoRa"
 }
 

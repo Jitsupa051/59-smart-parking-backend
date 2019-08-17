@@ -12,7 +12,8 @@ $app->post('/parking', function (Request $request, Response $response) {
         'position' => $data['position'],
         'parkingImage' => $data['parkingImage'],//ติดไว้ก่อน
         'parkingUUID' => $data['parkingUUID'],
-        'nameEquipment' => $data['nameEquipment']
+        'nameEquipment' => $data['nameEquipment'],
+        'status' => "using"
 
     ]);
     return $response->withJson($result->rowCount(),200);
@@ -49,4 +50,21 @@ $app->get('/parking', function (Request $request, Response $response, array $arg
 
     return $response->withJson($result,200);
 });
+
+
 //UpDate
+
+$app->post('/parking', function (Request $request, Response $response) {
+
+    $data = $request->getParsedBody();
+    $database = $GLOBALS['dbconn'];
+
+    //$uparkingID= $args['parkingID'];
+    $result = $database->update('parking', [
+        'parkingName' => $data['parkingName'
+        ],//[
+            //'parkingID' => $uparkingID
+    ]);
+    return $response->withJson($result->rowCount(),200);
+    //return $response->withJson($result,200);
+});
