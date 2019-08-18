@@ -51,20 +51,22 @@ $app->get('/parking', function (Request $request, Response $response, array $arg
     return $response->withJson($result,200);
 });
 
-
 //UpDate
 
-$app->post('/parking', function (Request $request, Response $response) {
+$app->post('/parking/{parkingID}', function (Request $request, Response $response, array $args) {
 
     $data = $request->getParsedBody();
     $database = $GLOBALS['dbconn'];
 
-    //$uparkingID= $args['parkingID'];
+    $UparkingID = $args['parkingID'];
     $result = $database->update('parking', [
-        'parkingName' => $data['parkingName'
-        ],//[
-            //'parkingID' => $uparkingID
-    ]);
+        'parkingName' => $data['parkingName'],
+        ],[
+            'parkingID' => $UparkingID
+        ]);
+
+    //return $response->withJson($database->error(),200);
     return $response->withJson($result->rowCount(),200);
     //return $response->withJson($result,200);
 });
+
