@@ -1,0 +1,47 @@
+[
+  {
+    "parkingID": "7",
+    "parkingName": "ลานจอดรถคณะวิทยาการสารสนเทศ",
+    "position": "คณะวิทยาการสารสนเทศ มหาวิทยาลัยมหาสารคาม ตำบลขามเรียง อำเภอกันทรวิชัย จังหวัดมหาสารคาม 44150",
+    "parkingImage": "D:ภาพรวม-ภาพนิ่ง1",
+    "parkingUUID": "123",
+    "nameEquipment": "ESP32 LoRa",
+    "status": "using"
+  },
+  {
+    "parkingID": "8",
+    "parkingName": "ลานจอดรถคณะวิทยาการสารสนเทศ",
+    "position": "คณะวิทยาการสารสนเทศ มหาวิทยาลัยมหาสารคาม ตำบลขามเรียง อำเภอกันทรวิชัย จังหวัดมหาสารคาม 44150",
+    "parkingImage": "D:ภาพรวม-ภาพนิ่ง2",
+    "parkingUUID": "123",
+    "nameEquipment": "ESP32 LoRa",
+    "status": "using"
+  },
+  {
+    "parkingID": "9",
+    "parkingName": "ลานจอดรถคณะวิทยาการสารสนเทศ",
+    "position": "คณะวิทยาการสารสนเทศ มหาวิทยาลัยมหาสารคาม ตำบลขามเรียง อำเภอกันทรวิชัย จังหวัดมหาสารคาม 44150",
+    "parkingImage": "D:ภาพรวม-ภาพนิ่ง1",
+    "parkingUUID": "123",
+    "nameEquipment": "ESP32 LoRa",
+    "status": "using"
+  },
+  {
+    "parkingID": "10",
+    "parkingName": "march",
+    "position": "march",
+    "parkingImage": "",
+    "parkingUUID": "1234",
+    "nameEquipment": "march",
+    "status": "using"
+  },
+  {
+    "parkingID": "11",
+    "parkingName": "abc",
+    "position": "def",
+    "parkingImage": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj\/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj\/wAARCABQADwDASIAAhEBAxEB\/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL\/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6\/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL\/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6\/9oADAMBAAIRAxEAPwD1VRGo++n501mi\/wCeqf8AfQq7\/Z\/tVaTTwAeOlDKRVd4Rn97H\/wB9CqstxbLktcQge7ipZ7EDPFYeqWY8l+OxqSjUlj61Tmi61qSCqsq8GglowrqPHWs6RQGNbV0vWuJ8Q3k0eotHbXTRBFAZRFu569foRQKx9R\/2UmOozWbf6YU3HHHqK6So7gAwSZGeCaoLnm2rtDZxNJcSLGgzyxx2z\/SvMPEfj7TIGkhgSeRhxu2gL\/PP6V0vxGM9xI4ct5a52pngV4R4jiKSOec1ap9w5j2vw94u03XnMdlNmUAFkkG1h+Hfn0ralPBxXyTPdSwzBkdkZTkEcEe9eufDH4g3GqTx6Rq7LJcbD5M5OGkxzg+px39vXrEoWBO56Pc9687vbyV7mSSGymvEkJYOsIO0ZOFPPUD+dd1rVz9lsZ5uMqvGQSM9B0rm7FPLh3mIQyS4d1WQsM4C5BPsoqLhc+qqR\/uNj0paKsR5F4ysw5ckdScV4v4j0vzGbC17Z49kiWaZfMbgkDFeTag7u0ihmwBkE1pJ2Vy6aTdjyfXdIlhDPs4rB0u6fT9VtbpBuaCVJAvrgg4rtNXkSS4cXhuGUHAC52\/pVHRNIiuPFeieSshhkuNzq6nonzHr6gH8qhS6Mc4dUe0eKHeWzihVV2yyKrbxlcHseD3xVJpoYgqZRABwuQMCsfx5r1xY6jbraytHCsbebgBt2SCFx2+717Z\/Ph73xTfXVw8tnawTQk8F42LLz0OD1qLGZ94rdQsM7wKr32pQ21vI4bJVSRXnv\/CRKo4fP0qlfeIEkjdGZtrAqcdcGquWomL4p1RLqR2ODzXneo6jaxMyyyBXbJCjniresah5MkxkYhVPNcPqOoedK0kFs5U9GIxu9xSepvFW2LW63uy5GyVeoJH+fSrvh1UbxFZlR\/qi5GP9xh\/WuXg1Fkm2NAys3cDP5103g3a2pyynOYYmcYPXtg\/nWSXvGk37jK+sD+0PEF5GQcM+zH0GPX2\/UVx2r+H7uzv5YhLNB3Ijzhv9r8sV6Bp1j5etyTbXVImErB\/QnDkYGThuePTGa9En0i2kYNdwKZCo5aby+Ppzn6mtPM40r6Hb239l24O3TI3b1kcuPyNOa7tMf8gnTD9YP\/r1iGd\/QVG00nOD+lBZ558S7SS21Sa6CgQXLGRdvQHqV9sZ49se9eZ3jB5C28qfUGvTPipqCNp4tvMxcRsrkegIP+FeKXF1KjnBzUvyOhXiveNcSJADtbk9c12\/gVF\/sW6u+WaWcQ49AAD+uT+leWK8kr4YgL7V0eieJrrRDDBGsclo8nzq4zgnAyD+FJaMHF1FZHoWi6gT46udMuF2xmIKgPJ6DgexHP4V3un3kFtbi2uZ4oXg\/dgOVG5QOD6njAyfSvLNQu4LrXNM1yydUaLKXkak5jMfLbiOxXIHqK9PFja6xFDexSoY5I1KMQV3KRkHH0Iqpd0c6i4txluj\/9k=",
+    "parkingUUID": "1234",
+    "nameEquipment": "kkkk",
+    "status": "using"
+  }
+]
