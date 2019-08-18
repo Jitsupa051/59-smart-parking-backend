@@ -23,16 +23,21 @@ $app->post('/parkingspot', function (Request $request, Response $response) {
 });
 
 //UpDate
-/*$app->post('/distanc', function (Request $request, Response $response) {
+$app->post('/parkingspot/{parkingSpotID}', function (Request $request, Response $response, array $args) {
 
     $data = $request->getParsedBody();
     $database = $GLOBALS['dbconn'];
 
-    $database->update("distanc",[
+    $UparkingSpotID = $args['parkingSpotID'];
+    $result = $database->update('parkingspot', [
+        'activeOrInactive' => $data['activeOrInactive'],
+        'distance' => $data['distance'],
+    ],[
+        'parkingSpotID' => $UparkingSpotID
     ]);
 
+    //return $response->withJson($database->error(),200);
+    return $response->withJson($result->rowCount(),200);
+    //return $response->withJson($result,200);
 
-
-
-
-});*/
+});
