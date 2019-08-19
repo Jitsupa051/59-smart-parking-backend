@@ -1,0 +1,835 @@
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 13
+}
+
+<> 2562-08-19T013617.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 13
+}
+
+<> 2562-08-19T061524.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 17
+}
+
+<> 2562-08-19T061431.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T061316.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T061240.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T061151.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T061041.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T060929.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T060839.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T054105.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T054037.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T053924.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T053730.200.json
+
+###
+
+GET http://parking.msuproject.net/webservice/statistics/2
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+
+}
+
+<> 2562-08-19T053447.200.json
+
+###
+
+GET http://parking.msuproject.net/webservice/statistics/1
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+
+}
+
+<> 2562-08-19T053437.200.json
+
+###
+
+GET http://parking.msuproject.net/webservice/statistics/1
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+
+}
+
+<> 2562-08-19T053413.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T053348.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T053222.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T053008.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 3
+}
+
+<> 2562-08-19T052933.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+}
+
+<> 2562-08-19T052853.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+
+}
+
+<> 2562-08-19T051304.200.json
+
+###
+
+GET http://parking.msuproject.net/webservice/statistics/1
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+
+}
+
+<> 2562-08-19T051239.200.json
+
+###
+
+GET http://parking.msuproject.net/webservice/statistics/2
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+
+}
+
+<> 2562-08-19T051227.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+
+}
+
+<> 2562-08-19T051223.200.json
+
+###
+
+GET http://parking.msuproject.net/webservice/statistics/2
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+
+}
+
+<> 2562-08-19T051136.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+
+}
+
+<> 2562-08-19T051125.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+
+}
+
+<> 2562-08-19T051051.200.json
+
+###
+
+GET http://parking.msuproject.net/webservice/statistics/2
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+
+}
+
+<> 2562-08-19T050848.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+
+}
+
+<> 2562-08-19T050755.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+
+}
+
+<> 2562-08-19T050739.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+
+}
+
+<> 2562-08-19T050423.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+
+}
+
+<> 2562-08-19T050403.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+
+}
+
+<> 2562-08-19T050351.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 2,
+  "userID" : 2
+
+}
+
+<> 2562-08-19T050325.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : "2",
+  "userID" : "2",
+  "dateBook" : "2005-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+}
+
+<> 2562-08-19T045950.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : "2",
+  "userID" : "2",
+  "dateBook" : "2019-03-20",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+}
+
+<> 2562-08-19T045342.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : "2",
+  "userID" : "2",
+  //"dateBook" : "2019-03-20",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+}
+
+<> 2562-08-19T045328.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : "2",
+  "userID" : "2",
+  "dateBook" : "2019-03-20",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+}
+
+<> 2562-08-19T045251.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : "2",
+  "userID" : "2",
+  "dateBook" : "2019-03-20",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+}
+
+<> 2562-08-19T045126.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : "2",
+  "userID" : "2",
+  "dateBook" : "2019-03-20",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+}
+
+<> 2562-08-19T044737.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : 2,
+  "userID" : 2,
+  "dateBook" : "2019-03-20",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+}
+
+<> 2562-08-19T044329.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : 2,
+  "userID" : 2,
+  "dateBook" : "2562-03-20",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+}
+
+<> 2562-08-19T044257.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : 2,
+  "userID" : 2,
+  "dateBook" : "20-03-2562",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+}
+
+<> 2562-08-19T044156.200.json
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : 2,
+  "userID" : 2,
+  "dateBook" : "20-03-2562",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+
+
+}
+
+<> 2562-08-19T044055.404.html
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : 2,
+  "userID" : 2,
+  "dateBook" : "20-03-2562",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+
+
+}
+
+<> 2562-08-19T044029.404.html
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : 2,
+  "userID" : 2,
+  "dateBook" : "20-03-2562",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+
+
+}
+
+<> 2562-08-19T043906.404.html
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : 2,
+  "userID" : 2,
+  "dateBook" : "20-03-2562",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่"
+
+
+}
+
+<> 2562-08-19T043722.404.html
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : 2,
+  "userID" : 2,
+  "dateBook" : "20/03/2562",
+  "dateAndTimeCheckIn" : "14:00",
+  "dateAndTimeCheckOut" : "15:00",
+  "status" : "ใช้งานอยู่"
+
+}
+
+<> 2562-08-19T042117.404.html
+
+###
+
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "parkingID" : 2,
+  "userID" : 2,
+  "dateBook" : "20/03/2562",
+  "dateAndTimeCheckIn" : "14:00",
+  "dateAndTimeCheckOut" : "15:00",
+  "status" : "ใช้งานอยู่"
+
+}
+
+<> 2562-08-19T041653.404.html
+
+###
+

@@ -1,0 +1,5 @@
+[
+  "23000",
+  1452,
+  "Cannot add or update a child row: a foreign key constraint fails (\"msu_parking\".\"statistics\", CONSTRAINT \"uid_fk\" FOREIGN KEY (\"userID\") REFERENCES \"user\" (\"userID\"))"
+]
