@@ -8,7 +8,7 @@ $app->post('/parkingspot', function (Request $request, Response $response) {
 
     $data = $request->getParsedBody();
     $database = $GLOBALS['dbconn'];
-
+//jkjkj;k
     $result = $database->insert('parkingspot',[
         'parkingID' => $data['parkingID'], //การจอยข้อมูลของ parkingID มาลง parkingspot
 
