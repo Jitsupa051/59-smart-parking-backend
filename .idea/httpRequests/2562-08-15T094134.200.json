@@ -1,0 +1,3 @@
+{
+  "queryString": "INSERT INTO \"parkingspot\" (\"parkingID\", \"parkingSpotName\", \"status\", \"activeOrInactive\", \"distance\") VALUES (:MeDoO_0_mEdOo, :MeDoO_1_mEdOo, :MeDoO_2_mEdOo, :MeDoO_3_mEdOo, :MeDoO_4_mEdOo)"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "parkingID": "1",
+    "parkingName": "ลานจอดรถคณะวิทยาการสารสนเทศ",
+    "position": "คณะวิทยาการสารสนเทศ มหาวิทยาลัยมหาสารคาม ตำบลขามเรียง อำเภอกันทรวิชัย จังหวัดมหาสารคาม 44150",
+    "parkingImage": "D:ภาพรวม-ภาพนิ่ง1",
+    "parkingUUID": "123",
+    "nameEquipment": "ESP32 LoRa"
+  },
+  {
+    "parkingID": "2",
+    "parkingName": "ลานจอดรถคณะวิทยาการสารสนเทศ",
+    "position": "คณะวิทยาการสารสนเทศ มหาวิทยาลัยมหาสารคาม ตำบลขามเรียง อำเภอกันทรวิชัย จังหวัดมหาสารคาม 44150",
+    "parkingImage": "D:ภาพรวม-ภาพนิ่ง1",
+    "parkingUUID": "123",
+    "nameEquipment": "ESP32 LoRa"
+  },
+  {
+    "parkingID": "3",
+    "parkingName": "ลานจอดรถคณะวิทยาการสารสนเทศ",
+    "position": "คณะวิทยาการสารสนเทศ มหาวิทยาลัยมหาสารคาม ตำบลขามเรียง อำเภอกันทรวิชัย จังหวัดมหาสารคาม 44150",
+    "parkingImage": "D:ภาพรวม-ภาพนิ่ง2",
+    "parkingUUID": "123",
+    "nameEquipment": "ESP32 LoRa"
+  },
+  {
+    "parkingID": "4",
+    "parkingName": "ลานจอดรถคณะวิทยาการสารสนเทศ",
+    "position": "คณะวิทยาการสารสนเทศ มหาวิทยาลัยมหาสารคาม ตำบลขามเรียง อำเภอกันทรวิชัย จังหวัดมหาสารคาม 44150",
+    "parkingImage": "D:ภาพรวม-ภาพนิ่ง1",
+    "parkingUUID": "123",
+    "nameEquipment": "ESP32 LoRa"
+  },
+  {
+    "parkingID": "5",
+    "parkingName": "march",
+    "position": "march",
+    "parkingImage": "data:image\/jpeg;base64,file:\/\/\/storage\/emulated\/0\/Android\/data\/net.msu.AppSmartParking\/cache\/1565882348411.jpg",
+    "parkingUUID": "1234",
+    "nameEquipment": "march"
+  }
+]
