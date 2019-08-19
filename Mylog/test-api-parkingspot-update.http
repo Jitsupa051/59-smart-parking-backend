@@ -1,0 +1,10 @@
+POST http://parking.msuproject.net/webservice/parkingspot/3
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "activeOrInactive" :"Ja",
+  "distance" :"Rora"
+}
+###
+

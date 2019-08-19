@@ -15,6 +15,7 @@ require 'api/user.php';
 require 'api/login.php';
 require 'api/parking.php';
 require 'api/parkingspot.php';
+require 'api/statistics.php';
 
 
 // Run silm app

@@ -10,7 +10,8 @@ $app->post('/parkingspot', function (Request $request, Response $response) {
     $database = $GLOBALS['dbconn'];
 
     $result = $database->insert('parkingspot',[
-        'parkingID' => $data['parkingID'],
+        'parkingID' => $data['parkingID'], //การจอยข้อมูลของ parkingID มาลง parkingspot
+
         'parkingSpotName' => $data['parkingSpotName'],
         'status' => $data['status'],
         'activeOrInactive' => $data['activeOrInactive'],

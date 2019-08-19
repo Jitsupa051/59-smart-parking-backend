@@ -4,19 +4,19 @@ use Psr\Http\Message\ServerRequestInterface as Request;
 use Psr\Http\Message\ResponseInterface as Response;
 
 //Select User
-$app->get('/user/{uid}', function (Request $request, Response $response, array $args) {
+$app->get('/user/{userID}', function (Request $request, Response $response, array $args) {
 
     $data = $request->getParsedBody();
     $database = $GLOBALS['dbconn'];
 
-    $uuid = $args['uid'];
+    $uuid = $args['userID'];
     $result  = $database->select('user',[
         "name",
         "lastname",
         "phone",
         "email"
     ],[
-        'uid' => $uuid
+        'userID' => $uuid
     ]);
     return $response->withJson($result,200);
 });

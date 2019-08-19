@@ -22,7 +22,7 @@ $app->post('/parking', function (Request $request, Response $response) {
 //Select   Set to show as parkingID
 $app->get('/parking/{parkingID}', function (Request $request, Response $response, array $args) {
 
-    $data = $request->getParsedBody();
+    //$data = $request->getParsedBody();
     $database = $GLOBALS['dbconn'];
 
     $uparkingID= $args['parkingID'];
@@ -39,7 +39,7 @@ $app->get('/parking/{parkingID}', function (Request $request, Response $response
 //Select all
 $app->get('/parking', function (Request $request, Response $response, array $args) {
 
-    $data = $request->getParsedBody();
+    //$data = $request->getParsedBody();
     $database = $GLOBALS['dbconn'];
 
     $result  = $database->select('parking','*',[

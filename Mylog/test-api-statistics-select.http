@@ -1,0 +1,10 @@
+GET http://parking.msuproject.net/webservice/statistics/2
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  
+}
+
+###
+

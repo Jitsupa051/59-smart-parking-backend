@@ -1,0 +1,15 @@
+POST http://parking.msuproject.net/webservice/statistics
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "dateBook" : "2560-12-26",
+  "dateAndTimeCheckIn" : "14:00:00",
+  "dateAndTimeCheckOut" : "15:00:00",
+  "status" : "ใช้งานอยู่",
+  "parkingID" : 3,
+  "userID" : 13
+}
+
+###
+
